@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BANK", "BANK\BANK.csproj", "{C987EFE8-8BAE-489A-B6CF-A69B28D0507F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankDatabase", "BankDatabase\BankDatabase.csproj", "{7DD0FCA0-738C-430A-8350-42AEC1DF1F43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLayer", "CommonLayer\CommonLayer.csproj", "{BAA0C113-0815-4C09-A42E-B5A1A33D2892}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C987EFE8-8BAE-489A-B6CF-A69B28D0507F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C987EFE8-8BAE-489A-B6CF-A69B28D0507F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C987EFE8-8BAE-489A-B6CF-A69B28D0507F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C987EFE8-8BAE-489A-B6CF-A69B28D0507F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DD0FCA0-738C-430A-8350-42AEC1DF1F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD0FCA0-738C-430A-8350-42AEC1DF1F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD0FCA0-738C-430A-8350-42AEC1DF1F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DD0FCA0-738C-430A-8350-42AEC1DF1F43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA0C113-0815-4C09-A42E-B5A1A33D2892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA0C113-0815-4C09-A42E-B5A1A33D2892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA0C113-0815-4C09-A42E-B5A1A33D2892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA0C113-0815-4C09-A42E-B5A1A33D2892}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFAC0648-9DC9-46B2-8FEE-0B5B8236D799}
+	EndGlobalSection
+EndGlobal

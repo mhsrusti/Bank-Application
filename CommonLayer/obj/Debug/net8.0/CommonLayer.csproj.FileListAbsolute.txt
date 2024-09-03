@@ -1,0 +1,28 @@
+C:\Users\Srusti.MH\OneDrive - Consilio\Desktop\New folder\BANK\CommonLayer\bin\Debug\net8.0\CommonLayer.exe
+C:\Users\Srusti.MH\OneDrive - Consilio\Desktop\New folder\BANK\CommonLayer\bin\Debug\net8.0\CommonLayer.deps.json
+C:\Users\Srusti.MH\OneDrive - Consilio\Desktop\New folder\BANK\CommonLayer\bin\Debug\net8.0\CommonLayer.runtimeconfig.json
+C:\Users\Srusti.MH\OneDrive - Consilio\Desktop\New folder\BANK\CommonLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\Srusti.MH\OneDrive - Consilio\Desktop\New folder\BANK\CommonLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\Srusti.MH\OneDrive - Consilio\Desktop\New folder\BANK\CommonLayer\obj\Debug\net8.0\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srusti.MH\OneDrive - Consilio\Desktop\New folder\BANK\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\Srusti.MH\OneDrive - Consilio\Desktop\New folder\BANK\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfo.cs
+C:\Users\Srusti.MH\OneDrive - Consilio\Desktop\New folder\BANK\CommonLayer\obj\Debug\net8.0\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\Srusti.MH\OneDrive - Consilio\Desktop\New folder\BANK\CommonLayer\obj\Debug\net8.0\CommonLayer.dll
+C:\Users\Srusti.MH\OneDrive - Consilio\Desktop\New folder\BANK\CommonLayer\obj\Debug\net8.0\refint\CommonLayer.dll
+C:\Users\Srusti.MH\OneDrive - Consilio\Desktop\New folder\BANK\CommonLayer\obj\Debug\net8.0\CommonLayer.pdb
+C:\Users\Srusti.MH\OneDrive - Consilio\Desktop\New folder\BANK\CommonLayer\obj\Debug\net8.0\CommonLayer.genruntimeconfig.cache
+C:\Users\Srusti.MH\OneDrive - Consilio\Desktop\New folder\BANK\CommonLayer\obj\Debug\net8.0\ref\CommonLayer.dll
+C:\Users\Srusti.MH\Project\Labs\BANK\CommonLayer\bin\Debug\net8.0\CommonLayer.exe
+C:\Users\Srusti.MH\Project\Labs\BANK\CommonLayer\bin\Debug\net8.0\CommonLayer.deps.json
+C:\Users\Srusti.MH\Project\Labs\BANK\CommonLayer\bin\Debug\net8.0\CommonLayer.runtimeconfig.json
+C:\Users\Srusti.MH\Project\Labs\BANK\CommonLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\Srusti.MH\Project\Labs\BANK\CommonLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\Srusti.MH\Project\Labs\BANK\CommonLayer\obj\Debug\net8.0\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srusti.MH\Project\Labs\BANK\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\Srusti.MH\Project\Labs\BANK\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfo.cs
+C:\Users\Srusti.MH\Project\Labs\BANK\CommonLayer\obj\Debug\net8.0\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\Srusti.MH\Project\Labs\BANK\CommonLayer\obj\Debug\net8.0\CommonLayer.dll
+C:\Users\Srusti.MH\Project\Labs\BANK\CommonLayer\obj\Debug\net8.0\refint\CommonLayer.dll
+C:\Users\Srusti.MH\Project\Labs\BANK\CommonLayer\obj\Debug\net8.0\CommonLayer.pdb
+C:\Users\Srusti.MH\Project\Labs\BANK\CommonLayer\obj\Debug\net8.0\CommonLayer.genruntimeconfig.cache
+C:\Users\Srusti.MH\Project\Labs\BANK\CommonLayer\obj\Debug\net8.0\ref\CommonLayer.dll
